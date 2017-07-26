@@ -1,0 +1,186 @@
+* {
+	margin:0;
+	padding:0;
+	font-family: "微软雅黑";
+}
+body{
+	background-color: rgb(222,222,222);
+}
+header{
+	background-color: #333333;
+}
+header a{
+	font-size: 12px;
+	color: #fff;
+	text-decoration: none;
+	margin-right: 5px;
+}
+nav{
+	float:right;
+	margin-top: 10px;
+}
+header h1{
+	display: inline-block;
+}
+header h1 img{
+	margin-left: 60px;
+	margin-top: 5px;
+	width: 100px;
+	height: 30px;
+}
+header li{
+	float:left;
+	margin:0 10px;
+}
+main{
+	position: relative;
+}
+main>div{
+	border-width:1px 3px 3px 1px;
+	border-color: darkgray;
+	border-style: solid;
+}
+.passage1,.passage2,.passage3,.picture{
+	margin: 20px 425px 20px 20px;
+	background-color: #fff;
+	padding: 20px;
+}
+.passage1,.passage2{
+	letter-spacing: 1px;
+}
+h2{
+	margin-top:20px;
+	margin-bottom: 10px;
+}
+h3{
+	color: #6b666d;
+	margin-bottom: 10px;
+}
+.author{
+	color: #8194a5;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.passage1 img,.passage2 img{
+	margin-top: 10px;		
+	margin-bottom: 10px;	
+	width: 300px;
+	height: 200px;
+}
+p{
+	line-height:160%;
+	font-size: 15px;
+	text-indent: 2em;
+}
+.passage2 ul{
+	list-style: none;
+}
+ol{
+	margin-left: 40px;
+	margin-top:20px;
+	margin-bottom:20px;
+}	
+table{
+	font-size: 15px;
+	width: 100%;
+	font-family: "微软雅黑";
+	border:1px solid #ccc;
+	text-align: left;
+	border-collapse:collapse;
+}
+tr{
+	padding-left:5px;
+	padding-top:3px;
+}
+tr,th{
+  	font-size:1em;
+  	border:1px solid #ccc;
+  	padding:3px 7px 3px 7px;
+}
+.caption{
+	font-size:larger;
+	background-color: #333333;
+	margin:1em auto;
+	color: white;
+}
+.addup{
+	background-color: #ccc;
+}
+.picture h2{
+	margin-bottom: 20px;
+}
+.pic {
+	width:200px;
+	height:200px;
+	border:1px #ccc solid;
+	text-align:center;
+	margin:20px;
+	display: inline-block;
+}
+.pic img{
+	width:150px;
+	height: 150px;
+	margin: 5px;
+}
+.pic span{
+	display:inline-block;
+	padding:5px;
+}
+.side{
+	background-color: #fff;
+	padding: 10px;
+	height: 500px;
+	width:365px;
+	position:absolute;
+	top:0px;
+	right: 0px;
+	margin-right: 20px;
+}
+.side>div{
+ margin-left: 50px;
+}
+.side h2{
+	margin-bottom: 30px;
+	margin-top:10px;
+	font-size:18px;
+	border-left: 3px lightgray solid;
+	padding: 5px 20px;
+}	
+.required{
+	height: 40px;
+	width: 100%;
+	background: blue;
+	color: white;
+	border-radius: 10px;
+	cursor: pointer;
+	margin-top:5px;
+}
+label{
+	width:120px;
+	float:left;
+	text-align:right;
+	margin-right:10px;
+}
+.side div{
+	padding: 1px;
+	margin-bottom: 10px;
+}
+.side p{
+	text-indent: 130px;
+	color: #ccc;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 12px;
+}
+footer{
+	background-color: #000;
+	height: 50px;
+	color: #fff;
+	text-align: center;
+}
+footer span{
+	line-height: 50px;
+}
+
+
