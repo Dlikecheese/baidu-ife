@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>百度前端作业1</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/task1.css" >
+</head>
+<body>
+	<header>
+		<h1><img src="./images/baidu.jpg"></h1>
+		<nav>
+ 		<ul>
+			<li><a href="导航链接1">导航链接1</a></li>
+			<li><a href="导航链接2">导航链接2</a></li>
+			<li><a href="导航链接3">导航链接3</a></li>
+			<li><a href="导航链接4">导航链接4</a></li>
+		</ul>
+		</nav>
+	</header>
+	<main>
+		<div class="passage1">
+			<h2>文章1级标题</h2>
+			<h3>文章二级标题</h3>
+			<div class="author">文章作者&nbsp&nbsp文章发表时间</div>
+			<p>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段换行<br>
+			这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落<a href="www.baidu.com">这是一个链接</a>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落换行</p>
+			<div><img src="./images/a.jpg"/></div>
+			<p>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这<br>
+			是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落<a href="www.baidu.com" target="_blank">这是一个链接</a>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落换行</p>
+		</div>
+		<div class="passage2">
+			<h2>另一篇文章一级标题</h2>
+			<h3>文章二级标题</h3>
+			<div class="author">文章作者&nbsp&nbsp文章发表时间</div>
+			<p>这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落换行了</p>
+			<p>这是一个很长很长的段落这是一个很这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落这是一个很长很长的段落长很长的段落这是一个很长很长的段落这是一个很长很长的段<a href="www.baidu.com">我是一个链接</a>落这是一个很长很长的段落</p>
+			<div><img src="./images/b.jpg"/></div>
+			<ul>
+				<li>列表项目一</li>
+				<li>列表项目二</li>
+				<li>列表项目三</li>
+			</ul>
+		</div>
+		<div class="picture">
+			<h2>图片</h2>
+			<div class="pic">
+				<span>好看的图片</span>
+				<img src="./images/c.jpg" width="300" height="200">
+			</div>
+			<div class="pic">
+				<span>好看的图片</span>
+				<img src="./images/c.jpg" width="300" height="200">
+			</div>
+			<div class="pic">
+				<span>好看的图片</span>
+				<img src="./images/c.jpg" width="300" height="200">
+			</div>
+			<div class="pic">
+				<span>好看的图片</span>
+				<img src="./images/c.jpg" width="300" height="200">
+			</div>
+			<div class="pic">
+				<span>好看的图片</span>
+				<img src="./images/c.jpg" width="300" height="200">
+			</div>
+			<div class="pic">
+				<span>好看的图片</span>
+				<img src="./images/c.jpg" width="300" height="200">
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="passage3">
+			<h2>最后一篇文章一级标题</h2>
+			<h3>文章二级标题</h3>
+			<div class="author">文章作者&nbsp&nbsp文章发表时间</div>
+			<ol>
+				<li>排名一</li>
+				<li>排名二</li>
+				<li>排名三</li>
+			</ol>
+			<span>下面是一个表格，给表格加了一个border=“1”好让你看出来是一个表格</span><br>
+			<table>
+				<tr class="caption">
+					<th>表头</th>
+					<th>表头</th>
+					<th>表头</th>
+				</tr>
+				<tr class="item">
+					<th>表内容单元格</th>
+					<th>表内容单元格</th>
+					<th><a href="">操作</a></th>
+				</tr>
+				<tr class="item">
+					<th>表内容单元格</th>
+					<th>表内容单元格</th>
+					<th><a href="">操作</a></th>					
+				</tr>
+				<tr class="item">
+					<th>表内容单元格</th>
+					<th>表内容单元格</th>
+					<th><a href="">操作</a></th>
+				</tr>
+				<tr class="item">
+					<th>表内容单元格</th>
+					<th>表内容单元格</th>
+					<th><a href="">操作</a></th>
+				</tr>
+				<tr class="addup">
+					<th>总计</th>
+					<th colsapn="2">1000</th>
+					<th></th>
+				</tr>
+			</table>
+		</div>
+		<div class="side">
+			<h2>这里以后是一个侧栏，这是侧栏的标题</h2>
+			<form>
+				<div>
+					<div><label>请输入邮箱地址 </label><input type="text" name="email" placeholder="这是一个文本输入框">
+					<p>邮箱地址格式请按要求格式输入</p>
+					</div>
+					<div><label>请输入密码 </label><input type="password" name="user_password" placeholder="这是一个文本输入框"></div>
+					<div><label>请重复输入密码 </label><input type="password" name="user_password" placeholder="这是一个文本输入框">
+					<p>请输入6-16位英文数字</p>
+					</div>
+					<div><label>性别 </label><input type="radio" name="male" class="center">男&nbsp<input type="radio" name="female">女
+					</div>
+					<div><label>城市 </label>
+					<select name="city" size="1" class="left">
+						<option value="1">成都</option>
+						<option value="2" selected="">北京</option>
+						<option value="3">上海</option>
+					</select>
+					</div>
+					<div><label>爱好 </label><input type="checkbox" name="hobby" value="sport" >运动&nbsp
+					<input type="checkbox" name="hobby" value="art">艺术&nbsp
+					<input type="checkbox" name="hobby" value="science">科学
+					</div>
+					<div><label>个人描述 	</label><textarea name="discriprion" cols="15" rows="2"></textarea></div>
+				</div>
+				<input type="submit" name="submit" value="确认提交" class="required">
+			</form>
+		</div>
+		</main>
+	<footer><span>@版权所有</span></footer>	
+</body>
+</html>
