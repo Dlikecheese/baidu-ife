@@ -4,6 +4,7 @@
 - [任务三：三栏式布局](https://github.com/Dlikecheese/baidu-ife/tree/master/xiaowei_tasks/task3)
 - [任务四：定位和居中问题](https://github.com/Dlikecheese/baidu-ife/tree/master/xiaowei_tasks/task4)
 - [任务五：零基础HTML及css编码（二）](https://github.com/Dlikecheese/baidu-ife/tree/master/xiaowei_tasks/task5)
+- [任务六：通过HTML及CSS模拟报纸排版](https://github.com/Dlikecheese/baidu-ife/tree/master/xiaowei_tasks/task6)
 ## 参考资料
 - 慕课HTML+CSS基础教程视频：http://www.imooc.com/learn/9
 - W3School参考手册： http://www.w3school.com.cn
